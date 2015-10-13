@@ -1,0 +1,1266 @@
+fileFormatVersion: 2
+guid: 0812239214d125b4a939c310f17d3b89
+timeCreated: 1443687813
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BuildingIcons_0
+    21300002: BuildingIcons_1
+    21300004: BuildingIcons_2
+    21300006: BuildingIcons_3
+    21300008: BuildingIcons_4
+    21300010: BuildingIcons_5
+    21300012: BuildingIcons_6
+    21300014: BuildingIcons_7
+    21300016: BuildingIcons_8
+    21300018: BuildingIcons_9
+    21300020: BuildingIcons_10
+    21300022: BuildingIcons_11
+    21300024: BuildingIcons_12
+    21300026: BuildingIcons_13
+    21300028: BuildingIcons_14
+    21300030: BuildingIcons_15
+    21300032: BuildingIcons_16
+    21300034: BuildingIcons_17
+    21300036: BuildingIcons_18
+    21300038: BuildingIcons_19
+    21300040: BuildingIcons_20
+    21300042: BuildingIcons_21
+    21300044: BuildingIcons_22
+    21300046: BuildingIcons_23
+    21300048: BuildingIcons_24
+    21300050: BuildingIcons_25
+    21300052: BuildingIcons_26
+    21300054: BuildingIcons_27
+    21300056: BuildingIcons_28
+    21300058: BuildingIcons_29
+    21300060: BuildingIcons_30
+    21300062: BuildingIcons_31
+    21300064: BuildingIcons_32
+    21300066: BuildingIcons_33
+    21300068: BuildingIcons_34
+    21300070: BuildingIcons_35
+    21300072: BuildingIcons_36
+    21300074: BuildingIcons_37
+    21300076: BuildingIcons_38
+    21300078: BuildingIcons_39
+    21300080: BuildingIcons_40
+    21300082: BuildingIcons_41
+    21300084: BuildingIcons_42
+    21300086: BuildingIcons_43
+    21300088: BuildingIcons_44
+    21300090: BuildingIcons_45
+    21300092: BuildingIcons_46
+    21300094: BuildingIcons_47
+    21300096: BuildingIcons_48
+    21300098: BuildingIcons_49
+    21300100: BuildingIcons_50
+    21300102: BuildingIcons_51
+    21300104: BuildingIcons_52
+    21300106: BuildingIcons_53
+    21300108: BuildingIcons_54
+    21300110: BuildingIcons_55
+    21300112: BuildingIcons_56
+    21300114: BuildingIcons_57
+    21300116: BuildingIcons_58
+    21300118: BuildingIcons_59
+    21300120: BuildingIcons_60
+    21300122: BuildingIcons_61
+    21300124: BuildingIcons_62
+    21300126: BuildingIcons_63
+    21300128: BuildingIcons_64
+    21300130: BuildingIcons_65
+    21300132: BuildingIcons_66
+    21300134: BuildingIcons_67
+    21300136: BuildingIcons_68
+    21300138: BuildingIcons_69
+    21300140: BuildingIcons_70
+    21300142: BuildingIcons_71
+    21300144: BuildingIcons_72
+    21300146: BuildingIcons_73
+    21300148: BuildingIcons_74
+    21300150: BuildingIcons_75
+    21300152: BuildingIcons_76
+    21300154: BuildingIcons_77
+    21300156: BuildingIcons_78
+    21300158: BuildingIcons_79
+    21300160: BuildingIcons_80
+    21300162: BuildingIcons_81
+    21300164: BuildingIcons_82
+    21300166: BuildingIcons_83
+    21300168: BuildingIcons_84
+    21300170: BuildingIcons_85
+    21300172: BuildingIcons_86
+    21300174: BuildingIcons_87
+    21300176: BuildingIcons_88
+    21300178: BuildingIcons_89
+    21300180: BuildingIcons_90
+    21300182: BuildingIcons_91
+    21300184: BuildingIcons_92
+    21300186: BuildingIcons_93
+    21300188: BuildingIcons_94
+    21300190: BuildingIcons_95
+    21300192: BuildingIcons_96
+    21300194: BuildingIcons_97
+    21300196: BuildingIcons_98
+    21300198: BuildingIcons_99
+    21300200: BuildingIcons_100
+    21300202: BuildingIcons_101
+    21300204: BuildingIcons_102
+    21300206: BuildingIcons_103
+    21300208: BuildingIcons_104
+    21300210: BuildingIcons_105
+    21300212: BuildingIcons_106
+    21300214: BuildingIcons_107
+    21300216: BuildingIcons_108
+    21300218: BuildingIcons_109
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: BuildingIcons_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 367
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 379
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 367
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 379
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 367
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_5
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 379
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 367
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_7
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 379
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_8
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 369
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 379
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_10
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 375
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_11
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 382
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_12
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 367
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_13
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 379
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 316
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_15
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 323
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_16
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 309
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_17
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 321
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_18
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 312
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_19
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 323
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_20
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 309
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_21
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 321
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_22
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 309
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_23
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 321
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_24
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 310
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_25
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 321
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_26
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 310
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_27
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 321
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_28
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 251
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_29
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 263
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_30
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 252
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_31
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 264
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_32
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 253
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_33
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 263
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_34
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 255
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_35
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 264
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_36
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 255
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_37
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 264
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_38
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 252
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_39
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 264
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_40
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 251
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_41
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 263
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_42
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 194
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_43
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 205
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_44
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 195
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_45
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 205
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_46
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 195
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_47
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 206
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_48
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 193
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_49
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 205
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_50
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 193
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_51
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 206
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_52
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 193
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_53
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 206
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_54
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 197
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_55
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 206
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_56
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 147
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_57
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 151
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_58
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 140
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_59
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 148
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_60
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 135
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_61
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 147
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_62
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 137
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_63
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 147
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_64
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 137
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_65
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 147
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_66
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 135
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_67
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 147
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_68
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 135
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_69
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 147
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_70
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 79
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_71
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 89
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_72
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 82
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_73
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 91
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_74
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 85
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_75
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 91
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_76
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 84
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_77
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 91
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_78
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 77
+        width: 17
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_79
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 89
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_80
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 77
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_81
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 89
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_82
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 77
+        width: 9
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_83
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 89
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_84
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 19
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_85
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 31
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_86
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 22
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_87
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 32
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_88
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 19
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_89
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 31
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_90
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 19
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_91
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 31
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_92
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 28
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_93
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 35
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_94
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 19
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_95
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 31
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_96
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 19
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_97
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 31
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_98
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 4
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_99
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 4
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_100
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 4
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_101
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 4
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_102
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 4
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_103
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 4
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_104
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 4
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_105
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 4
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_106
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 4
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_107
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 4
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_108
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 4
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BuildingIcons_109
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 4
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

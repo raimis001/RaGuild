@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" inkscape:export-ydpi="180" inkscape:export-xdpi="180" inkscape:export-filename="O:\games\guildTest\Assets\Roads.png" sodipodi:docname="Roads.svg" inkscape:version="0.48.5 r10040"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="512px" height="512px"
+	 viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+<pattern  x="-255.5" y="768.5" width="60.014" height="128.029" patternUnits="userSpaceOnUse" id="New_Pattern_Swatch_1" viewBox="1 -129.029 60.014 128.029" overflow="visible">
+	<g>
+		<polygon fill="none" points="1,-1 61.014,-1 61.014,-129.029 1,-129.029 		"/>
+		
+			<image overflow="visible" width="60" height="128" xlink:href="RoadText.png"  transform="matrix(1.0002 0 0 1.0002 1 -129.0293)">
+		</image>
+	</g>
+</pattern>
+<sodipodi:namedview  id="base" inkscape:zoom="5.140625" inkscape:cx="345.382" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:cy="268.20209" showgrid="true" inkscape:window-maximized="0" inkscape:window-y="232" inkscape:window-x="7" inkscape:window-height="1486" inkscape:window-width="1050" inkscape:current-layer="layer1" inkscape:document-units="px" inkscape:pageshadow="2" inkscape:pageopacity="0.0">
+	
+		<inkscape:grid  color="#0084ff" type="xygrid" id="grid2993" opacity="0.1254902" empopacity="0.25098039" empcolor="#0020ff" visible="true" enabled="true" dotted="false" empspacing="16" snapvisiblegridlinesonly="true">
+		</inkscape:grid>
+</sodipodi:namedview>
+<polygon id="rect3769" fill="url(#New_Pattern_Swatch_1)" points="16,16 80,16 80,16 80,80 80,80 16,80 16,80 16,16 "/>
+<path id="path3765" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" fill="none" stroke="#000000" stroke-width="2" d="
+	M17,16v64"/>
+<path id="path3767" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" fill="none" stroke="#000000" stroke-width="2" d="
+	M79,16v64"/>
+<path id="path3771" inkscape:connector-curvature="0" fill="none" stroke="#FFFFFF" stroke-width="2" d="M48,16v16"/>
+<path id="path3773" inkscape:connector-curvature="0" fill="none" stroke="#FFFFFF" stroke-width="2" d="M48,48v16"/>
+<polygon id="rect3794" fill="url(#New_Pattern_Swatch_1)" points="160,16 160,80 160,80 96,80 96,80 96,16 96,16 160,16 "/>
+<path id="path3790" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" fill="none" stroke="#000000" stroke-width="2" d="
+	M160,17H96"/>
+<path id="path3792" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" fill="none" stroke="#000000" stroke-width="2" d="
+	M160,79H96"/>
+<path id="path3800" inkscape:connector-curvature="0" fill="none" stroke="#FFFFFF" stroke-width="2" d="M160,48h-16"/>
+<path id="path3802" inkscape:connector-curvature="0" fill="none" stroke="#FFFFFF" stroke-width="2" d="M128,48h-16"/>
+<path id="path3844" inkscape:connector-curvature="0" fill="none" stroke="#FFFFFF" stroke-width="2" d="M79,192v16"/>
+<g id="g6360">
+	<path id="path4117" inkscape:connector-curvature="0" sodipodi:nodetypes="ccsccc" fill="url(#New_Pattern_Swatch_1)" d="M80,160
+		c0,0,0-35,0-48c-6-13-32-16-32-16c-11,0-27,5-32,16l0.55,47.941L80,160z"/>
+	
+		<path id="path4119" inkscape:connector-curvature="0" sodipodi:nodetypes="cccc" fill="url(#New_Pattern_Swatch_1)" stroke="#000000" stroke-width="2" d="
+		M79,160c0-2.367,0.639-45.902,0-48c-8-17-48.904-22.684-62,0c0,3,0,45.757,0,48"/>
+</g>
+<g id="g6364" transform="matrix(1,0,0,-1,80,1336.7244)">
+	<path id="path6366" inkscape:connector-curvature="0" sodipodi:nodetypes="ccsccc" fill="url(#New_Pattern_Swatch_1)" d="
+		M80,1240.724c0,0,0-35,0-48c-6-13-32-16-32-16c-11,0-27,5-32,16l0.55,47.941L80,1240.724z"/>
+	
+		<path id="path6368" inkscape:connector-curvature="0" sodipodi:nodetypes="cccc" fill="none" stroke="#000000" stroke-width="2" d="
+		M79,1240.724c0-2.367,0.639-45.902,0-48c-8-17-48.904-22.684-62,0c0,3,0,45.757,0,48"/>
+</g>
+<g id="g6370" transform="matrix(0,1,-1,0,1084.3622,700.36218)">
+	<path id="path6372" inkscape:connector-curvature="0" sodipodi:nodetypes="ccsccc" fill="url(#New_Pattern_Swatch_1)" d="
+		M-460.362,700.362c0,0,0-35,0-48c-6-13-32-16-32-16c-11,0-27,5-32,16l0.55,47.942L-460.362,700.362z"/>
+	
+		<path id="path6374" inkscape:connector-curvature="0" sodipodi:nodetypes="cccc" fill="url(#New_Pattern_Swatch_1)" stroke="#000000" stroke-width="2" d="
+		M-461.362,700.362c0-2.367,0.639-45.901,0-48c-8-17-48.904-22.683-62,0c0,3,0,45.758,0,48"/>
+</g>
+<g id="g6376" transform="matrix(0,1,1,0,-332.36218,700.36218)">
+	<path id="path6378" inkscape:connector-curvature="0" sodipodi:nodetypes="ccsccc" fill="url(#New_Pattern_Swatch_1)" d="
+		M-460.362,700.362c0,0,0-35,0-48c-6-13-32-16-32-16c-11,0-27,5-32,16l0.55,47.941L-460.362,700.362z"/>
+	
+		<path id="path6380" inkscape:connector-curvature="0" sodipodi:nodetypes="cccc" fill="url(#New_Pattern_Swatch_1)" stroke="#000000" stroke-width="2" d="
+		M-461.362,700.362c0-2.368,0.639-45.902,0-48c-8-17-48.904-22.684-62,0c0,3,0,45.757,0,48"/>
+</g>
+<path id="path3869" inkscape:connector-curvature="0" sodipodi:nodetypes="cccc" fill="url(#New_Pattern_Swatch_1)" d="M256,16
+	c48,0,64,32,64,64h-64V16z"/>
+<path id="path3859" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" fill="none" stroke="#000000" stroke-width="2" d="
+	M256,17c48,0,63,31,63,63"/>
+<path id="path3882" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" fill="none" stroke="#FFFFFF" stroke-width="2" d="
+	M288,64c0-16-16-16-16-16"/>
+<path id="path6076" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" fill="none" stroke="#000000" stroke-width="2" d="
+	M257,80v-2"/>
+<path id="path6101" inkscape:connector-curvature="0" fill="none" stroke="#000000" d="M257.034,96.553h62"/>
+<path id="path3921" inkscape:connector-curvature="0" sodipodi:nodetypes="cccc" fill="url(#New_Pattern_Swatch_1)" d="M320,96
+	c0,48-32,64-64,64V96H320z"/>
+<path id="path3919" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" fill="none" stroke="#000000" stroke-width="2" d="
+	M319,96c0,48-31,63-63,63"/>
+<path id="path3923" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" fill="none" stroke="#FFFFFF" stroke-width="2" d="
+	M272,128c16,0,16-16,16-16"/>
+<path id="path6078" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" fill="none" stroke="#000000" stroke-width="2" d="
+	M257,98v-2"/>
+<path id="path3929" inkscape:connector-curvature="0" sodipodi:nodetypes="cccc" fill="url(#New_Pattern_Swatch_1)" d="M240,160
+	c-48,0-64-32-64-64h64V160z"/>
+<path id="path3927" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" fill="none" stroke="#000000" stroke-width="2" d="
+	M240,159c-48,0-63-31-63-63"/>
+<path id="path3931" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" fill="none" stroke="#FFFFFF" stroke-width="2" d="
+	M208,112c0,16,16,16,16,16"/>
+<path id="path6086" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" fill="none" stroke="#000000" stroke-width="2" d="
+	M239,98v-2"/>
+<path id="path3937" inkscape:connector-curvature="0" sodipodi:nodetypes="cccc" fill="url(#New_Pattern_Swatch_1)" d="M176,80
+	c0-48,32-64,64-64v64H176z"/>
+<path id="path3935" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" fill="none" stroke="#000000" stroke-width="2" d="
+	M177,80c0-48,31-63,63-63"/>
+<path id="path3939" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" fill="none" stroke="#FFFFFF" stroke-width="2" d="
+	M224,48c-16,0-16,16-16,16"/>
+<path id="path6088" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" fill="none" stroke="#000000" stroke-width="2" d="
+	M239,80v-2"/>
+<g id="g6272" transform="translate(-32,-48)">
+	<polygon id="rect3826" fill="#B3B3B3" points="112,224 112,288 112,288 111,288 111,288 111,224 111,224 112,224 	"/>
+	<polygon id="rect3842" fill="url(#New_Pattern_Swatch_1)" points="48,224 112,224 112,224 112,288 112,288 48,288 48,288 48,224 	
+		"/>
+	
+		<path id="path3838" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="1" d="
+		M49,224v64"/>
+	<path id="path3840" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" fill="none" stroke="#000000" stroke-width="2" d="
+		M111,224v2"/>
+	<path id="path3958" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" fill="none" stroke="#000000" stroke-width="2" d="
+		M111,286v2"/>
+	<path id="path6211" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" fill="none" stroke="#FFFFFF" stroke-width="2" d="
+		M80,240c0,16,16,16,16,16"/>
+	<path id="path6213" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" fill="none" stroke="#FFFFFF" stroke-width="2" d="
+		M80,272c0-16,16-16,16-16"/>
+</g>
+<g id="g6281" transform="matrix(0,1,-1,0,384,128)">
+	<polygon id="rect6283" fill="#B3B3B3" points="112,224 112,288 112,288 111,288 111,288 111,224 111,224 112,224 	"/>
+	<polygon id="rect6285" fill="url(#New_Pattern_Swatch_1)" points="48,224 112,224 112,224 112,288 112,288 48,288 48,288 48,224 	
+		"/>
+	
+		<path id="path6287" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="1" d="
+		M49,224v64"/>
+	<path id="path6289" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" fill="none" stroke="#000000" stroke-width="2" d="
+		M111,224v2"/>
+	<path id="path6291" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" fill="none" stroke="#000000" stroke-width="2" d="
+		M111,286v2"/>
+	<path id="path6293" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" fill="none" stroke="#FFFFFF" stroke-width="2" d="
+		M80,240c0,16,16,16,16,16"/>
+	<path id="path6295" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" fill="none" stroke="#FFFFFF" stroke-width="2" d="
+		M80,272c0-16,16-16,16-16"/>
+</g>
+<g id="g6297" transform="matrix(-1,0,0,-1,128,544)">
+	<polygon id="rect6299" fill="#B3B3B3" points="112,224 112,288 112,288 111,288 111,288 111,224 111,224 112,224 	"/>
+	<polygon id="rect6301" fill="url(#New_Pattern_Swatch_1)" points="48,224 112,224 112,224 112,288 112,288 48,288 48,288 48,224 	
+		"/>
+	
+		<path id="path6303" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="1" d="
+		M49,224v64"/>
+	<path id="path6305" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" fill="none" stroke="#000000" stroke-width="2" d="
+		M111,224v2"/>
+	<path id="path6307" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" fill="none" stroke="#000000" stroke-width="2" d="
+		M111,286v2"/>
+	<path id="path6309" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" fill="none" stroke="#FFFFFF" stroke-width="2" d="
+		M80,240c0,16,16,16,16,16"/>
+	<path id="path6311" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" fill="none" stroke="#FFFFFF" stroke-width="2" d="
+		M80,272c0-16,16-16,16-16"/>
+</g>
+<g id="g6313" transform="matrix(0,-1,1,0,-128,368)">
+	<polygon id="rect6315" fill="#B3B3B3" points="112,224 112,288 112,288 111,288 111,288 111,224 111,224 112,224 	"/>
+	<polygon id="rect6317" fill="url(#New_Pattern_Swatch_1)" points="48,224 112,224 112,224 112,288 112,288 48,288 48,288 48,224 	
+		"/>
+	
+		<path id="path6319" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="1" d="
+		M49,224v64"/>
+	<path id="path6321" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" fill="none" stroke="#000000" stroke-width="2" d="
+		M111,224v2"/>
+	<path id="path6323" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" fill="none" stroke="#000000" stroke-width="2" d="
+		M111,286v2"/>
+	<path id="path6325" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" fill="none" stroke="#FFFFFF" stroke-width="2" d="
+		M80,240c0,16,16,16,16,16"/>
+	<path id="path6327" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" fill="none" stroke="#FFFFFF" stroke-width="2" d="
+		M80,272c0-16,16-16,16-16"/>
+</g>
+<polygon id="rect6331" fill="#B3B3B3" points="176,176 240,176 240,176 240,177 240,177 176,177 176,177 176,176 "/>
+<polygon id="rect6333" fill="url(#New_Pattern_Swatch_1)" points="176,240 176,176 176,176 240,176 240,176 240,240 240,240 
+	176,240 "/>
+<path id="path6335" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="1" d="
+	M176,239h2"/>
+<path id="path6337" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" fill="none" stroke="#000000" stroke-width="2" d="
+	M176,177h2"/>
+<path id="path6339" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" fill="none" stroke="#000000" stroke-width="2" d="
+	M238,177h2"/>
+<path id="path6341" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" fill="none" stroke="#FFFFFF" stroke-width="2" d="
+	M192,208c16,0,16-16,16-16"/>
+<path id="path6343" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" fill="none" stroke="#FFFFFF" stroke-width="2" d="
+	M224,208c-16,0-16-16-16-16"/>
+<path id="path6352" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" fill="none" stroke="#FFFFFF" stroke-width="2" d="
+	M192,209c16,0,16,16,16,16"/>
+<path id="path6354" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" fill="none" stroke="#FFFFFF" stroke-width="2" d="
+	M224,209c-16,0-16,16-16,16"/>
+<path id="path6356" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="1" d="
+	M238,239h2"/>
+</svg>

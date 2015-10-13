@@ -1,0 +1,980 @@
+fileFormatVersion: 2
+guid: 36e0bbd96d17a2a44af56406666ce500
+timeCreated: 1444032579
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Wii - Cooking Mama Cook Off - Steps_0
+    21300002: Wii - Cooking Mama Cook Off - Steps_1
+    21300004: Wii - Cooking Mama Cook Off - Steps_2
+    21300006: Wii - Cooking Mama Cook Off - Steps_3
+    21300008: Wii - Cooking Mama Cook Off - Steps_4
+    21300010: Wii - Cooking Mama Cook Off - Steps_5
+    21300012: Wii - Cooking Mama Cook Off - Steps_6
+    21300014: Wii - Cooking Mama Cook Off - Steps_7
+    21300016: Wii - Cooking Mama Cook Off - Steps_8
+    21300018: Wii - Cooking Mama Cook Off - Steps_9
+    21300020: Wii - Cooking Mama Cook Off - Steps_10
+    21300022: Wii - Cooking Mama Cook Off - Steps_11
+    21300024: Wii - Cooking Mama Cook Off - Steps_12
+    21300026: Wii - Cooking Mama Cook Off - Steps_13
+    21300028: Wii - Cooking Mama Cook Off - Steps_14
+    21300030: Wii - Cooking Mama Cook Off - Steps_15
+    21300032: Wii - Cooking Mama Cook Off - Steps_16
+    21300034: Wii - Cooking Mama Cook Off - Steps_17
+    21300036: Wii - Cooking Mama Cook Off - Steps_18
+    21300038: Wii - Cooking Mama Cook Off - Steps_19
+    21300040: Wii - Cooking Mama Cook Off - Steps_20
+    21300042: Wii - Cooking Mama Cook Off - Steps_21
+    21300044: Wii - Cooking Mama Cook Off - Steps_22
+    21300046: Wii - Cooking Mama Cook Off - Steps_23
+    21300048: Wii - Cooking Mama Cook Off - Steps_24
+    21300050: Wii - Cooking Mama Cook Off - Steps_25
+    21300052: Wii - Cooking Mama Cook Off - Steps_26
+    21300054: Wii - Cooking Mama Cook Off - Steps_27
+    21300056: Wii - Cooking Mama Cook Off - Steps_28
+    21300058: Wii - Cooking Mama Cook Off - Steps_29
+    21300060: Wii - Cooking Mama Cook Off - Steps_30
+    21300062: Wii - Cooking Mama Cook Off - Steps_31
+    21300064: Wii - Cooking Mama Cook Off - Steps_32
+    21300066: Wii - Cooking Mama Cook Off - Steps_33
+    21300068: Wii - Cooking Mama Cook Off - Steps_34
+    21300070: Wii - Cooking Mama Cook Off - Steps_35
+    21300072: Wii - Cooking Mama Cook Off - Steps_36
+    21300074: Wii - Cooking Mama Cook Off - Steps_37
+    21300076: Wii - Cooking Mama Cook Off - Steps_38
+    21300078: Wii - Cooking Mama Cook Off - Steps_39
+    21300080: Wii - Cooking Mama Cook Off - Steps_40
+    21300082: Wii - Cooking Mama Cook Off - Steps_41
+    21300084: Wii - Cooking Mama Cook Off - Steps_42
+    21300086: Wii - Cooking Mama Cook Off - Steps_43
+    21300088: Wii - Cooking Mama Cook Off - Steps_44
+    21300090: Wii - Cooking Mama Cook Off - Steps_45
+    21300092: Wii - Cooking Mama Cook Off - Steps_46
+    21300094: Wii - Cooking Mama Cook Off - Steps_47
+    21300096: Wii - Cooking Mama Cook Off - Steps_48
+    21300098: Wii - Cooking Mama Cook Off - Steps_49
+    21300100: Wii - Cooking Mama Cook Off - Steps_50
+    21300102: Wii - Cooking Mama Cook Off - Steps_51
+    21300104: Wii - Cooking Mama Cook Off - Steps_52
+    21300106: Wii - Cooking Mama Cook Off - Steps_53
+    21300108: Wii - Cooking Mama Cook Off - Steps_54
+    21300110: Wii - Cooking Mama Cook Off - Steps_55
+    21300112: Wii - Cooking Mama Cook Off - Steps_56
+    21300114: Wii - Cooking Mama Cook Off - Steps_57
+    21300116: Wii - Cooking Mama Cook Off - Steps_58
+    21300118: Wii - Cooking Mama Cook Off - Steps_59
+    21300120: Wii - Cooking Mama Cook Off - Steps_60
+    21300122: Wii - Cooking Mama Cook Off - Steps_61
+    21300124: Wii - Cooking Mama Cook Off - Steps_62
+    21300126: Wii - Cooking Mama Cook Off - Steps_63
+    21300128: Wii - Cooking Mama Cook Off - Steps_64
+    21300130: Wii - Cooking Mama Cook Off - Steps_65
+    21300132: Wii - Cooking Mama Cook Off - Steps_66
+    21300134: Wii - Cooking Mama Cook Off - Steps_67
+    21300136: Wii - Cooking Mama Cook Off - Steps_68
+    21300138: Wii - Cooking Mama Cook Off - Steps_69
+    21300140: Wii - Cooking Mama Cook Off - Steps_70
+    21300142: Wii - Cooking Mama Cook Off - Steps_71
+    21300144: Wii - Cooking Mama Cook Off - Steps_72
+    21300146: Wii - Cooking Mama Cook Off - Steps_73
+    21300148: Wii - Cooking Mama Cook Off - Steps_74
+    21300150: Wii - Cooking Mama Cook Off - Steps_75
+    21300152: Wii - Cooking Mama Cook Off - Steps_76
+    21300154: cooking_0
+    21300156: cooking_1
+    21300158: cooking_2
+    21300160: cooking_3
+    21300162: cooking_4
+    21300164: cooking_5
+    21300166: cooking_6
+    21300168: cooking_7
+    21300170: cooking_8
+    21300172: cooking_9
+    21300174: cooking_10
+    21300176: cooking_11
+    21300178: cooking_12
+    21300180: cooking_13
+    21300182: cooking_14
+    21300184: cooking_15
+    21300186: cooking_16
+    21300188: cooking_17
+    21300190: cooking_18
+    21300192: cooking_19
+    21300194: cooking_20
+    21300196: cooking_21
+    21300198: cooking_22
+    21300200: cooking_23
+    21300202: cooking_24
+    21300204: cooking_25
+    21300206: cooking_26
+    21300208: cooking_27
+    21300210: cooking_28
+    21300212: cooking_29
+    21300214: cooking_30
+    21300216: cooking_31
+    21300218: cooking_32
+    21300220: cooking_33
+    21300222: cooking_34
+    21300224: cooking_35
+    21300226: cooking_36
+    21300228: cooking_37
+    21300230: cooking_38
+    21300232: cooking_39
+    21300234: cooking_40
+    21300236: cooking_41
+    21300238: cooking_42
+    21300240: cooking_43
+    21300242: cooking_44
+    21300244: cooking_45
+    21300246: cooking_46
+    21300248: cooking_47
+    21300250: cooking_48
+    21300252: cooking_49
+    21300254: cooking_50
+    21300256: cooking_51
+    21300258: cooking_52
+    21300260: cooking_53
+    21300262: cooking_54
+    21300264: cooking_55
+    21300266: cooking_56
+    21300268: cooking_57
+    21300270: cooking_58
+    21300272: cooking_59
+    21300274: cooking_60
+    21300276: cooking_61
+    21300278: cooking_62
+    21300280: cooking_63
+    21300282: cooking_64
+    21300284: cooking_65
+    21300286: cooking_66
+    21300288: cooking_67
+    21300290: cooking_68
+    21300292: cooking_69
+    21300294: cooking_70
+    21300296: cooking_71
+    21300298: cooking_72
+    21300300: cooking_73
+    21300302: cooking_74
+    21300304: cooking_75
+    21300306: cooking_76
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: cooking_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1291
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1291
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_2
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1291
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_3
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1291
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_4
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1291
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_5
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1291
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_6
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1291
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1162
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_8
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1162
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_9
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1162
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_10
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1162
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_11
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1162
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_12
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1162
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_13
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1162
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1033
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_15
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1033
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_16
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1033
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_17
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1033
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_18
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1033
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_19
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1033
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_20
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1033
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 904
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_22
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 904
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_23
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 904
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_24
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 904
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_25
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 904
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_26
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 904
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_27
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 904
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 775
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_29
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 775
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_30
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 775
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_31
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 775
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_32
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 775
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_33
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 775
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_34
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 775
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 646
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_36
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 646
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_37
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 646
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_38
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 646
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_39
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 646
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_40
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 646
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_41
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 646
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 517
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_43
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 517
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_44
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 517
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_45
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 517
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_46
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 517
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_47
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 517
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_48
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 517
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_49
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 388
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_50
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 388
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_51
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 388
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_52
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 388
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_53
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 388
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_54
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 388
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_55
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 388
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_56
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 259
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_57
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 259
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_58
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 259
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_59
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 259
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_60
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 259
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_61
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 259
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_62
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 259
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_63
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 130
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_64
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 130
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_65
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 130
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_66
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 130
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_67
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 130
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_68
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 130
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_69
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 130
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_70
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_71
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_72
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_73
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_74
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_75
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cooking_76
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

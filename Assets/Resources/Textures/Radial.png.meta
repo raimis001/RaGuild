@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: 0da3964da9777f143b436ccda04cf1c1
+timeCreated: 1444402599
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: radial_far
+    21300002: radial_middle
+    21300004: radial_near
+    21300006: r_0
+    21300008: r_1
+    21300010: r_2
+    21300012: r_3
+    21300014: Radial_0
+    21300016: Radial_1
+    21300018: Radial_2
+    21300020: Radial_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 200
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: radial_far
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1293
+        width: 367
+        height: 684
+      alignment: 9
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: radial_middle
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1460
+        width: 326
+        height: 500
+      alignment: 9
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: radial_near
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1580
+        width: 407
+        height: 408
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: r_0
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 795
+        width: 78
+        height: 206
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: r_1
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 693
+        width: 80
+        height: 308
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: r_2
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 609
+        width: 122
+        height: 391
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: r_3
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 528
+        width: 74
+        height: 473
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Radial_0
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 1816
+        width: 116
+        height: 116
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Radial_1
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1739
+        width: 200
+        height: 201
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Radial_2
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 1544
+        width: 170
+        height: 168
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Radial_3
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 1734
+        width: 47
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
