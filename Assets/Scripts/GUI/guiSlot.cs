@@ -111,12 +111,15 @@ public class guiSlot : MonoBehaviour {
 	public void OnEndDrag() {
 		if (OnSlotEndDrag != null) OnSlotEndDrag(this);
 	}
+	public void EndDrag() {
+		GUImain.DragObject = null;
+	}
+
 	public override string ToString() {
 		return "Slot id:" + _worker.id;
 	}
 
 	public void Refresh() {
 		Icon.sprite = _worker == null ? ResourceManager.ErrorSprite : _worker.Image;
-
 	}
 }

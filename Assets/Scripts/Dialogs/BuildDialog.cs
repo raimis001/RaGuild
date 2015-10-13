@@ -40,7 +40,6 @@ public class BuildDialog : DialogClass {
 	void Update () {
 		for (int i = 0; i < CurrentBuilding.ActiveWorks.List.Count; i++) {
 			if (CurrentBuilding.ActiveWorks.List[i] == null) continue;
-			//ActiveWorks[i].Progress.value = CurrentBuilding.ActiveWorks.List[i].Progress;
 			ActiveWorks.GetItem<guiSlot>(i).Progress.value = CurrentBuilding.ActiveWorks.List[i].Progress;
 		}
 	}
@@ -56,7 +55,6 @@ public class BuildDialog : DialogClass {
 	override public void SetBuilding(GameObject objectBuild) {
 
 		CurrentBuilding = objectBuild.GetComponent<Building>();
-		//Debug.Log("Set building id:" + CurrentBuilding.id);
 		Caption = CurrentBuilding.Caption;
 
 		ActiveLaborers.AddLaborers(CurrentBuilding.Laborers);
@@ -113,8 +111,6 @@ public class BuildDialog : DialogClass {
 
 	}
 
-
-
 	public void AddLaborer() {
 		if (!SelectedWorker.gameObject.activeSelf) return;
 		if (SelectedWorker.Worker == null) return;
@@ -161,10 +157,6 @@ public class BuildDialog : DialogClass {
 
 		}
 
-	}
-
-	public void EndDrag() {
-		GUImain.DragObject = null;
 	}
 
 }

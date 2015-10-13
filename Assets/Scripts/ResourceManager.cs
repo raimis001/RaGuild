@@ -173,7 +173,8 @@ public class ResourceInvenotory {
 public enum ResourceTypes {
 	RESOURCE, 
 	BUILDING,
-	CAR
+	CAR,
+	OTHER
 }
 
 public class ResourceObject  {
@@ -511,6 +512,16 @@ public class ResourceManager {
 			obj.Desciption = "Car";
 			obj.BasePrice = 1;
 			obj.SpriteName = "TruckOris_0";
+		ResourcesList.Add(obj.ID, obj);
+#endregion
+
+#region OTHER
+		obj = new ResourceObject(5001);
+		obj.Type = ResourceTypes.OTHER;
+		obj.Name = "Build road";
+		obj.Desciption = "Click on map for bulding road";
+		obj.BasePrice = 1;
+		obj.SpriteName = "RoadIcon";
 		ResourcesList.Add(obj.ID, obj);
 #endregion
 

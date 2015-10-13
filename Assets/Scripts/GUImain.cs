@@ -7,16 +7,26 @@ public class DragClass {
 	
 	public ResourceData Resource = null;
 	public object Data = null;
+	public float Scale = 1;
 
 	public DragClass(ResourceData res, object data = null) {
 		Resource = res;
 		Data = data;
 	}
+	public DragClass(int item_id, object data = null, float scale = 1) {
+		Resource = new ResourceData(item_id,1);
+		Data = data;
+		Scale = scale;
+	}
+
 }
 
 public class GUImain : MonoBehaviour {
 
 	public static DragClass DragObject = null;
+	public delegate void CursorClick();
+	public static event CursorClick OnCursorClick;
+
 
 	public GameObject BuildingPanel;
 	public GameObject TransportPanel;
@@ -24,10 +34,10 @@ public class GUImain : MonoBehaviour {
 
 	public Transform Cursor;
 
-	void Enable() {
+	void OnEnable() {
 		ResourceManager.OnMoneyChange += OnMoneyChange;
 	}
-	void Disable() {
+	void OnDisable() {
 		ResourceManager.OnMoneyChange -= OnMoneyChange;
 	}
 
@@ -41,7 +51,8 @@ public class GUImain : MonoBehaviour {
 	void Update () {
 		if (DragObject != null) {
 			if (!Cursor.gameObject.activeSelf) {
-				Cursor.gameObject.GetComponent<Image>().sprite = GUImain.DragObject.Resource.Image;
+				Cursor.gameObject.GetComponent<Image>().sprite = DragObject.Resource.Image;
+				Cursor.localScale = new Vector3(DragObject.Scale,DragObject.Scale,1);
 				Cursor.gameObject.SetActive(true);
 			}
 
@@ -49,17 +60,31 @@ public class GUImain : MonoBehaviour {
 			pos.z = -1;
 			Cursor.position = Input.mousePosition;
 
-			if (Input.GetMouseButtonUp(0) || !EventSystem.current.IsPointerOverGameObject()) {
-				GUImain.DragObject = null;
-				if (Cursor.gameObject.activeSelf) {
-					Cursor.gameObject.SetActive(false);
-				}
+			if (Input.GetMouseButtonUp(0) && !EventSystem.current.IsPointerOverGameObject()) {
+				if (OnCursorClick != null) OnCursorClick();
 			}
+
+			if (Input.GetMouseButtonUp(1)) {
+				CancelSelect();
+			}
+
+		} else if (Cursor.gameObject.activeSelf) {
+			Cursor.gameObject.SetActive(false);
 		}
+
 		MoneyText.text = ResourceManager.Money.ToString();
 	}
 
 	void OnMoneyChange() {
 		MoneyText.text = ResourceManager.Money.ToString();
 	}
+
+	public void CancelSelect() {
+		DragObject = null;
+	}
+
+	public void StartRoad() {
+		DragObject = new DragClass(5001, null, 0.5f);
+	}
+
 }

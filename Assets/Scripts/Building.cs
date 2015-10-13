@@ -148,10 +148,10 @@ public class Building : MonoBehaviour {
 	}
 
 	virtual protected void OnMouseDown() {
-		//Dialog.SetBuilding(this.gameObject);
-		//Dialog.gameObject.SetActive(true);
+		Dialog.SetBuilding(this.gameObject);
+		Dialog.gameObject.SetActive(true);
 
-		if (Car != null) Car.SetCarPath(transform.position);
+		//if (Car != null) Car.SetCarPath(transform.position);
 	}
 
 	virtual public void EndWorker(ResourceWorker worker) {

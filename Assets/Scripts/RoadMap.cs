@@ -14,23 +14,31 @@ public class RoadMap : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
+		//Debug.Log("Add event");
+		//GUImain.OnCursorClick += OnRoadClick;
 	
 	}
 	
 	// Update is called once per frame
 	void Update () {
-		if (EventSystem.current.IsPointerOverGameObject()) return;
 
+	}
+
+	void OnEnable() {
+		GUImain.OnCursorClick += OnRoadClick;
+	}
+	void OnDisable() {
+		GUImain.OnCursorClick -= OnRoadClick;
+	}
+
+	void OnRoadClick() {
+		if (GUImain.DragObject == null || GUImain.DragObject.Resource.id != 5001)  return;
 		Vector2 mouse = Camera.main.ScreenToWorldPoint(Input.mousePosition) / transform.localScale.x / 0.5f;
-		//Debug.Log(transform.localScale.x);
 			mouse.x = Mathf.Round(mouse.x);
 			mouse.y = Mathf.RoundToInt(mouse.y);
 			Cursor.position = mouse * transform.localScale.x * 0.5f;
 
-		if (Input.GetMouseButtonUp(0)) {
-			//Debug.Log(mouse);
 			AddRoad(mouse);
-		}
 	}
 
 	void AddRoad(Vector3 pos) {

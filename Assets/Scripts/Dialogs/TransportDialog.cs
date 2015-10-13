@@ -13,8 +13,8 @@ public class TransportDialog : DialogClass {
 
 	public GameObject SelectedTransport;
 
-	public guiAwailableSlot SourceSlot;
-	public guiAwailableSlot DestinationSlot;
+	public guiSlot SourceSlot;
+	public guiSlot DestinationSlot;
 
 	public Slider TransportPosition;
 	public Transform TransportImage;
@@ -70,7 +70,7 @@ public class TransportDialog : DialogClass {
 			if (res.Type != ResourceTypes.RESOURCE) continue;
 
 			GameObject obj = ResourceList.AddItem();
-				obj.GetComponent<guiAwailableSlot>().Worker = new ResourceData(res.ID, 0);
+				obj.GetComponent<guiSlot>().Worker = new ResourceData(res.ID, 0);
 
 		}
 
@@ -82,8 +82,8 @@ public class TransportDialog : DialogClass {
 				GameObject created = BuildingList.AddItem();
 				Building building = obj.GetComponent<Building>();
 
-				created.GetComponent<guiAwailableSlot>().Worker = new ResourceData(building.resource_id);
-				created.GetComponent<guiAwailableSlot>().Data = building.id;
+				created.GetComponent<guiSlot>().Worker = new ResourceData(building.resource_id);
+				created.GetComponent<guiSlot>().Data = building.id;
 
 				//guiBuildingSlot slot = created.GetComponent<guiBuildingSlot>();
 					//slot.id = building.id;
@@ -155,14 +155,16 @@ public class TransportDialog : DialogClass {
 		if (res == null || res.Type != ResourceTypes.RESOURCE) return;
 
 		CurrentTransport.Slots[slotID].id = GUImain.DragObject.Resource.id;
-		//AwailableSlots[slotID].Worker = CurrentTransport.Slots[slotID];
 	}
 
 	public void EndDragSource() {
 		if (CurrentTransport == null) return;
 		if (GUImain.DragObject == null) return;
 		ResourceObject res = ResourceManager.GetResoucreObject(GUImain.DragObject.Resource.id);
-		if (res == null || res.Type != ResourceTypes.BUILDING) return;
+		if (res == null || res.Type != ResourceTypes.BUILDING) {
+			GUImain.DragObject = null;
+			return;
+		}
 
 		Debug.Log(GUImain.DragObject.Data);
 
@@ -177,13 +179,17 @@ public class TransportDialog : DialogClass {
 			CurrentTransport.Source = building;
 			break;
 		}
+		GUImain.DragObject = null;
 
 	}
 	public void EndDragDestination() {
 		if (CurrentTransport == null) return;
 		if (GUImain.DragObject == null) return;
 		ResourceObject res = ResourceManager.GetResoucreObject(GUImain.DragObject.Resource.id);
-		if (res == null || res.Type != ResourceTypes.BUILDING) return;
+		if (res == null || res.Type != ResourceTypes.BUILDING) {
+			GUImain.DragObject = null;
+			return;
+		}
 
 		//Debug.Log(GUImain.DragObject.Data);
 
@@ -198,5 +204,6 @@ public class TransportDialog : DialogClass {
 			CurrentTransport.Destination = building;
 			break;
 		}
+		GUImain.DragObject = null;
 	}
 }
